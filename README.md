@@ -1,3 +1,10 @@
 ﻿Download zip file
- node server/server.js
- npm start
+
+ 
+ 
+
+	node server/server.js
+ 
+ 
+ 
+	npm start
