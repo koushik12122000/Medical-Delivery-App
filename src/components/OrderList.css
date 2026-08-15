@@ -1,0 +1,8 @@
+.order-table th {
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+.order-table td {
+  vertical-align: middle;
+}

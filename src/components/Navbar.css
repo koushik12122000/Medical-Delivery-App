@@ -1,0 +1,11 @@
+.navbar__container {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+  background-color: #fff;
+  border-bottom: 2px solid #28a745;
+}
+
+.top-banner {
+  font-size: 0.85rem;
+}

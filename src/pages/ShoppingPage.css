@@ -1,0 +1,18 @@
+.shoppingpage {
+  background-color: #f8f9fa;
+  min-height: 80vh;
+  padding-bottom: 50px;
+}
+
+.shopping-hero {
+  background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 100%);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.shopping-filter-bar {
+  border: 1px solid #e2e8f0;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}

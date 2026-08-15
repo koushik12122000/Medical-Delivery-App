@@ -1,0 +1,22 @@
+.login__form{
+    min-width: 400px;
+    width: fit-content;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+}
+.login__form > h2{
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
+.login__error{
+    color: red;
+    font-family: monospace !important;
+    font-weight: bold;
+}
+@media screen and (max-width:768px){
+    .login__form{
+        min-width:300px;
+    }
+}

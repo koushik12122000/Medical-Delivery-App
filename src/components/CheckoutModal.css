@@ -1,0 +1,8 @@
+.checkout-modal .modal-header {
+  border-bottom: 2px solid #218838;
+}
+
+.checkout-modal form label {
+  font-weight: 600;
+  color: #333;
+}

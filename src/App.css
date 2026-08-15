@@ -1,0 +1,23 @@
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif !important;
+
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link :hover{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none !important;
+    color: #b3b3b3 !important;
+
+}

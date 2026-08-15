@@ -1,0 +1,25 @@
+.cart-item-img {
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.cart-qty-controls button {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.cart-summary {
+  border: 1px solid #e0e0e0;
+}
+
+.cart-table th {
+  color: #666;
+  font-size: 0.9rem;
+}

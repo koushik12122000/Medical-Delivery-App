@@ -1,0 +1,16 @@
+{
+  "customerName": "Rahul Kumar",
+  "phone": "9876543210",
+  "email": "rahul@example.com",
+  "address": "456 MG Road, Indiranagar",
+  "zip": "560001",
+  "items": [
+    {
+      "medicineId": "6a8069b6673298c0f014cd98",
+      "name": "Abhayarishtam",
+      "price": 145,
+      "quantity": 2
+    }
+  ],
+  "totalAmount": 290
+}
